@@ -1,0 +1,14 @@
+/Users/billy/studier/TodoApp/bin/Debug/net10.0/TodoApp
+/Users/billy/studier/TodoApp/bin/Debug/net10.0/TodoApp.deps.json
+/Users/billy/studier/TodoApp/bin/Debug/net10.0/TodoApp.runtimeconfig.json
+/Users/billy/studier/TodoApp/bin/Debug/net10.0/TodoApp.dll
+/Users/billy/studier/TodoApp/bin/Debug/net10.0/TodoApp.pdb
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.AssemblyInfoInputs.cache
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.AssemblyInfo.cs
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.csproj.CoreCompileInputs.cache
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.dll
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/refint/TodoApp.dll
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.pdb
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/TodoApp.genruntimeconfig.cache
+/Users/billy/studier/TodoApp/obj/Debug/net10.0/ref/TodoApp.dll
