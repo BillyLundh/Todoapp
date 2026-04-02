@@ -1,0 +1,52 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Test results
+TestResults/
+
+# Coverage
+coverage/
+
+# Generated files
+*.generated.cs
+
+# Publish output
+publish/
+
+# JSON local settings (optional)
+appsettings.Development.json
+
+# Rider/Resharper
+_ReSharper*/
+*.DotSettings.user
